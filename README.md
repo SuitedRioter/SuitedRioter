@@ -1,4 +1,4 @@
-## Hi there 👋
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Always+learning+new+thing)
 
 <!--
 **SuitedRioter/SuitedRioter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuitedRioter)
 -->
+
+
+
+![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=SuitedRioter)
