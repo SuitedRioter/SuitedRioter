@@ -20,3 +20,8 @@ Here are some ideas to get you started:
 
 
 ![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=SuitedRioter)
+
+
+<div align="center">
+   <img src="https://github-profile-trophy.vercel.app/?username=SuitedRioter&theme=flat&no-frame=true&margin-w=30" />
+</div>
